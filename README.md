@@ -1,2 +1,2 @@
 # Playwright
-This is Playwright Project Repository
+This is my Playwright project repository
